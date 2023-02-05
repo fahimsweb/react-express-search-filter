@@ -1,0 +1,21 @@
+    body{
+        background-color: cadetblue;
+    }
+
+    @media (min-width: 768px){
+        .card{   
+            width: 50%;
+            border-radius: 0.25rem;
+            padding: 2rem;
+            margin: 0 auto;
+        }
+    }
+    
+    .search-wrapper{
+        background-color: #add8e6;
+    }
+    .search input{
+        padding: 1.5rem 2rem;
+        border-radius: 3rem;
+        font-size: 1.5rem;
+    }

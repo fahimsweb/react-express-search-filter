@@ -1,0 +1,20 @@
+{
+    "name": "react-express-api-filter-demo",
+    "version": "1.0.0",
+    "description": "Simple search filter using React UI and Axios to define an express JS API",
+    "main": "index.js",
+    "scripts": {
+        "start-server": "nodemon server/index.js"
+    },
+    "author": "Fahim Mohammed",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.18.2",
+        "swagger-jsdoc": "^6.2.7",
+        "swagger-ui-express": "^4.6.0"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.20"
+    }
+}
